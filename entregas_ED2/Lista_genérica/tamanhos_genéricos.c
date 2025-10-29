@@ -31,7 +31,6 @@ int main () {
 
     printf("%d\n", *(int*)ponteiro_generico); // aqui eu estou desreferenciando o ponteiro genérico, mas antes eu estou convertendo ele para o tipo int*, assim ele respeita o tipo de dado que está apontando
     // vai mostrar o valor de X corretamente
-
    
 
     return 0;
